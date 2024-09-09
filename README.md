@@ -62,4 +62,7 @@ Dark mode for a more immersive user experience.
 Adding customer reviews and video testimonials for social proof.
 
 **Contributors**
-K. Sanjay Kumar K - UI/UX Designer
+Sanjay Kumar K - UI/UX Designer
+Santhanam S - Contributor
+Raj Gowtham R - Contributor
+
